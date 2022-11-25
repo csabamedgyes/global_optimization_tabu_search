@@ -1,1 +1,1 @@
-# global_optimization_tabu_search
+# Global Optimization Tabu Search
