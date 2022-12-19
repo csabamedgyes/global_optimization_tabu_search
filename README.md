@@ -1,3 +1,3 @@
 # Global Optimization Tabu Search
 
-Ez a Repository Medgyes Csaba (RF8I8P) és Mészáros Bálint (HY90XY) projektmunkája a Globális Optimalizálás második részére. Az ipynb notebook megtekintésével láthatjuk a Tabu Search demonstrálását. 
+This Repository is the work of Csaba Medgyes (RF8I8P) and Bálint Mészáros (HY90XY) for our Global Optimization class.
